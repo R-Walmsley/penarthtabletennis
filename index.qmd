@@ -2,8 +2,7 @@
 title: "Home"
 ---
 
-![](logo.jpg){width=110}
-![](IMG-20250205-WA0008.jpg){width=100}
+![](logo.jpg){width=100}
 
 Welcome to the website of the Penarth Table Tennis Club.
 
